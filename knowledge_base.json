@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello, how are you"
+    },
+    {
+      "question": "can you lie",
+      "answer": "AI only gives answer its been provided before."
+    },
+    {
+      "question": "Good day",
+      "answer": "Good day, how can I help you?"
+    },
+    {
+      "question": "Hey, there",
+      "answer": "Hi back"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Good! thanks for asking.  How are you doing?"
+    }
+  ]
+}
